@@ -1,4 +1,2 @@
-# Syn-MRL
-Synteny matrix representation with maximum likelihood pipeline
-[Under Construction]
-I will continue update the tutorial and organize the codes here recently (during the break of Spring Festival, happy holidays)
+<p># Syn-MRL<br />Synteny matrix representation with maximum likelihood pipeline</p>
+<p><em><strong>Under Construction</strong></em><br />I will continue update the tutorial and organize the codes recently (during the break of the Spring Festival)<img src="https://html-cleaner.com/tinymce2016/plugins/emoticons/img/smiley-laughing.gif" alt="laughing" /></p>
