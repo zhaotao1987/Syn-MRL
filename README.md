@@ -5,4 +5,4 @@
 <p><span style="font-family:Calibri;font-size:14px;">&nbsp;</span></p>
 
 <h4><strong>Microsynteny-based vs sequence-alignment based phylogenetic reconstruction</strong></h4>
-<p><strong><img src="https://github.com/zhaotao1987/Syn-MRL/blob/master/Figure_1.jpg?raw=true" alt="me" width="500" height="557" /></strong></p>
+<p><strong><img src="https://github.com/zhaotao1987/Syn-MRL/blob/master/Figure_1.jpg?raw=true" alt="me" width="700" height="780" /></strong></p>
